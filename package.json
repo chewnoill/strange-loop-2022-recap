@@ -1,0 +1,11 @@
+{
+  "name": "strange-loop-2022-recap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:chewnoill/strange-loop-2022-recap.git",
+  "author": "Will Cohen <chewnoill@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "reveal.js": "^4.4.0"
+  }
+}
